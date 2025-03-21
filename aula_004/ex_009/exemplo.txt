@@ -1,0 +1,5 @@
+Hello World!
+Meu nome é Victor.
+Tenho 22 anos.
+Sou um estudante de ciência da computação.
+Sou um desenvolvedor Typescript.
